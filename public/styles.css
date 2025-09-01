@@ -1,0 +1,26 @@
+.formulario{
+display: flex;
+flex-direction: column;
+width:300px;
+gap: 10px;
+border: violet solid;
+}
+.seccion-formulario{
+    border: green solid;
+gap: 15px;
+display: flex;
+flex-direction: column;
+width: 300px;
+justify-content: center;
+align-items: center;
+}
+
+.contenedor{
+border: black solid;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
